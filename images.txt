@@ -1,4 +1,5 @@
 alpine
+whyour/qinglong:2.12.2
 whyour/qinglong:2.11.3
 whyour/qinglong:2.16.5
 whyour/qinglong:2.17.5
