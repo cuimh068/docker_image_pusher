@@ -9,3 +9,4 @@ nginx:1.25.5
 mysql:5.7.38
 mysql:8.0.29
 redis:6.2.7
+jeessy/backup-x:v2.7.2
