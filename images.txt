@@ -16,3 +16,5 @@ jeessy/backup-x:v2.1.0
 jeessy/backup-x:v2.1.6
 jeessy/backup-x:v2.7.2
 yangxiao6/stupidocr:main
+filebrowser/filebrowser:v2.30.0-s6
+filebrowser/filebrowser:v2-s6
