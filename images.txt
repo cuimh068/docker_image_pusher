@@ -18,3 +18,5 @@ jeessy/backup-x:v2.7.2
 yangxiao6/stupidocr:main
 filebrowser/filebrowser:v2.30.0-s6
 filebrowser/filebrowser:v2-s6
+mzzsfy/auto-proxy-pool:24-06-28_10-44
+mzzsfy/auto-proxy-pool:latest
