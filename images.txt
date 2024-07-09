@@ -40,7 +40,7 @@ xhofe/alist:v3.35.0-ffmpeg
 #文件浏览器
 filebrowser/filebrowser:v2.30.0-s6
 filebrowser/filebrowser:v2-s6
-代理
+#代理
 mzzsfy/auto-proxy-pool:24-06-28_10-44
 mzzsfy/auto-proxy-pool:latest
 #内网穿透
