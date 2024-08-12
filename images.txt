@@ -30,6 +30,8 @@ jeessy/backup-x:v2.1.6
 jeessy/backup-x:v2.7.2
 #过验证码
 yangxiao6/stupidocr:main
+#过验证码
+xzxxn777/ddddocr:latest
 #alist
 xhofe/alist:latest
 xhofe/alist:latest-ffmpeg
