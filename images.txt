@@ -10,7 +10,7 @@ whyour/qinglong:2.12.2
 whyour/qinglong:2.16.5
 whyour/qinglong:2.17.5
 #奥特曼
-autman:latest
+hdbjlizhe/autman:latest
 hdbjlizhe/autman:2.9.7
 #ngixn
 nginx:1.25.3
