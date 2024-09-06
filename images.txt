@@ -4,6 +4,9 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+#青龙TOOLS
+langchain/langchain:0.1.0
+langchain/langchain:latest
 #青龙
 whyour/qinglong:2.11.3
 whyour/qinglong:2.12.2
