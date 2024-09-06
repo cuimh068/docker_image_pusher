@@ -27,7 +27,7 @@ mysql:8.0.29
 #redis
 redis:6.2.7
 redis:6.2.14
-#py
+#python
 python:3.9.9
 python:3.10
 #backup-x数据库备份
