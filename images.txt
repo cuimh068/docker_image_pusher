@@ -4,14 +4,14 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#青龙TOOLS
-langchain/langchain:0.1.0
-langchain/langchain:latest
 #青龙
 whyour/qinglong:2.11.3
 whyour/qinglong:2.12.2
 whyour/qinglong:2.16.5
 whyour/qinglong:2.17.5
+#青龙TOOLS
+nuanxinqing123/qltools:2.2
+nuanxinqing123/qltools:latest
 #奥特曼
 hdbjlizhe/autman:latest
 hdbjlizhe/autman:2.9.7
@@ -48,7 +48,7 @@ xhofe/alist:v3.35.0-ffmpeg
 #文件浏览器
 filebrowser/filebrowser:v2.30.0-s6
 filebrowser/filebrowser:v2-s6
-#代理
+#ip代理池
 mzzsfy/auto-proxy-pool:24-06-28_10-44
 mzzsfy/auto-proxy-pool:latest
 #内网穿透
