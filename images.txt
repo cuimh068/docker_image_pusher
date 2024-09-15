@@ -55,5 +55,5 @@ mzzsfy/auto-proxy-pool:latest
 easytier/easytier:latest
 #docker可视化面板 portainer-ce中文汉化版
 6053537/portainer-ce:2.19.5
-#elmsign
-msconli/elesign:1.0.3
+#elmsign 饿了么sign
+fifaty/elmsign:latest
