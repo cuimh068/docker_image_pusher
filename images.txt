@@ -1,20 +1,3 @@
-#nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-#青龙
-whyour/qinglong:2.11.3
-whyour/qinglong:2.12.2
-whyour/qinglong:2.16.5
-whyour/qinglong:2.17.5
-#青龙TOOLS
-nuanxinqing123/qltools:2.2
-nuanxinqing123/qltools:latest
-#奥特曼
-hdbjlizhe/autman:latest
-hdbjlizhe/autman:2.9.7
 #ngixn
 nginx:1.25.3
 nginx:1.25.5
@@ -30,29 +13,31 @@ redis:6.2.14
 #python
 python:3.9.9
 python:3.10
-#backup-x数据库备份
+#backup-x 数据库备份
 jeessy/backup-x:v2.1.0
 jeessy/backup-x:v2.1.6
 jeessy/backup-x:v2.7.2
-#过验证码
-yangxiao6/stupidocr:main
-#过验证码
-xzxxn777/ddddocr:latest
-#alist
-xhofe/alist:latest
-xhofe/alist:latest-ffmpeg
-xhofe/alist:main
-xhofe/alist:main-ffmpeg
-xhofe/alist:v3.35.0
-xhofe/alist:v3.35.0-ffmpeg
-#文件浏览器
+#qinglong 青龙
+whyour/qinglong:2.11.3
+whyour/qinglong:2.12.2
+whyour/qinglong:2.16.5
+whyour/qinglong:2.17.5
+#filebrowser 文件浏览器
 filebrowser/filebrowser:v2.30.0-s6
 filebrowser/filebrowser:v2-s6
-#ip代理池
+#auto-proxy-pool ip代理池
 mzzsfy/auto-proxy-pool:24-06-28_10-44
 mzzsfy/auto-proxy-pool:latest
-#内网穿透
+#easytier 内网穿透
 easytier/easytier:latest
+#ddddocr 过验证码
+xzxxn777/ddddocr:latest
+#autman 奥特曼
+hdbjlizhe/autman:latest
+hdbjlizhe/autman:2.9.7
+#qltools 青龙TOOLS
+nuanxinqing123/qltools:2.2
+nuanxinqing123/qltools:latest
 #docker可视化面板 portainer-ce中文汉化版
 6053537/portainer-ce:2.19.5
 #elmsign 饿了么sign
