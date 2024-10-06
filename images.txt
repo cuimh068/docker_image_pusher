@@ -42,3 +42,5 @@ nuanxinqing123/qltools:latest
 6053537/portainer-ce:2.19.5
 #elmsign 饿了么sign
 fifaty/elmsign:latest
+#docker-osx 黑苹果镜像
+dickhub/docker-osx:big-sur
