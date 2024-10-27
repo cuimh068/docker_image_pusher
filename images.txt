@@ -22,6 +22,7 @@ whyour/qinglong:2.11.3
 whyour/qinglong:2.12.2
 whyour/qinglong:2.16.5
 whyour/qinglong:2.17.5
+whyour/qinglong:2.17.11
 whyour/qinglong:latest
 #filebrowser 文件浏览器
 filebrowser/filebrowser:v2.30.0-s6
