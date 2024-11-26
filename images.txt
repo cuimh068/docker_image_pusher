@@ -36,7 +36,7 @@ easytier/easytier:latest
 xzxxn777/ddddocr:latest
 #autman 奥特曼
 hdbjlizhe/autman:latest
-hdbjlizhe/autman:2.9.7
+#hdbjlizhe/autman:2.9.7
 #qltools 青龙TOOLS
 nuanxinqing123/qltools:2.2
 nuanxinqing123/qltools:latest
