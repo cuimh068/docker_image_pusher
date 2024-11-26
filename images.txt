@@ -46,4 +46,7 @@ nuanxinqing123/qltools:latest
 fifaty/elmsign:latest
 #uptime-kuma 服务监控
 louislam/uptime-kuma:1
+#RustDesk远程桌面服务
 rustdesk/rustdesk-server:latest
+#RustDesk远程桌面API
+lejianwen/rustdesk-api:latest
