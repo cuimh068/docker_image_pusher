@@ -1,3 +1,2 @@
-whyour/qinglong:2.18.0
-whyour/qinglong:2.18.1
+whyour/qinglong:2.18.2
 whyour/qinglong:latest
