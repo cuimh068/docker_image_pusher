@@ -1,1 +1,1 @@
-vaultwarden/server:latest
+whyour/qinglong:2.18.3
