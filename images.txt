@@ -1,1 +1,2 @@
 mzzsfy/auto-proxy-pool:06-28
+mzzsfy/auto-proxy-pool:latest
