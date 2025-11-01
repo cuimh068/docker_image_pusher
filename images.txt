@@ -1,1 +1,1 @@
-xiaomo181/sig3-server:latest
+library/mariadb:latest
