@@ -1,1 +1,2 @@
-library/mariadb:latest
+mariadb:latest
+mariadb:10.11
