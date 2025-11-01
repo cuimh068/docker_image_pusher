@@ -1,2 +1,2 @@
-mariadb:latest
-mariadb:10.11
+mayanghua/instock:latest
+mayanghua/instock:202508
