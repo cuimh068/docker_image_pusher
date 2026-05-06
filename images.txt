@@ -1,1 +1,1 @@
-wyourname/wechatloader:arm64-latest
+wyourname/wechatloader:amd64-latest
